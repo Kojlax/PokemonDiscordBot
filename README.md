@@ -6,7 +6,7 @@ This is my first project I've worked seriously on: A game of pokemon you can pla
 Now, let me get this out of the way: this code is a hacky piece of garbage and I don't recommend anyone use it. It was made as a proof of concept to be used by me and only me for exactly a week before I turned it off forever. However, if you really want to run this on your own server, or to modify it yourself, here's the rundown on how it works:
 
 ## The emulator
-You're going to need to download your own emulator and rom, but personally, I recommend [BGB](bgb.bircd.org). It's lightweight, very fast, lets you change the speed to whatever you want, has a built in screenshot tool, and, allows you to turn off video output, as it's unnecessary for this, which makes it even faster.
+You're going to need to download your own emulator and rom, but personally, I recommend [BGB](http://bgb.bircd.org). It's lightweight, very fast, lets you change the speed to whatever you want, has a built in screenshot tool, and, allows you to turn off video output, as it's unnecessary for this, which makes it even faster.
 
 And most importantly, it accepts input from the F13-F21 keys. Although it isn't necessarily *required* to use those keys, them being pressed won't mess up any other programs you're using, and you won't ever accidentally press them, so that's what I use in the code.
 
